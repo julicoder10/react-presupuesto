@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-presupuesto/static/css/main.58c0f91e.css",
+    "main.js": "/react-presupuesto/static/js/main.b0b79000.js",
+    "static/js/787.62f7974d.chunk.js": "/react-presupuesto/static/js/787.62f7974d.chunk.js",
+    "index.html": "/react-presupuesto/index.html",
+    "main.58c0f91e.css.map": "/react-presupuesto/static/css/main.58c0f91e.css.map",
+    "main.b0b79000.js.map": "/react-presupuesto/static/js/main.b0b79000.js.map",
+    "787.62f7974d.chunk.js.map": "/react-presupuesto/static/js/787.62f7974d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58c0f91e.css",
+    "static/js/main.b0b79000.js"
+  ]
+}
